@@ -1,0 +1,10 @@
+﻿DataWarehouseAnalytics,gold,dim_customers,customer_key,1,NULL,YES,int,NULL,NULL,10,10,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+DataWarehouseAnalytics,gold,dim_customers,customer_id,2,NULL,YES,int,NULL,NULL,10,10,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+DataWarehouseAnalytics,gold,dim_customers,customer_number,3,NULL,YES,nvarchar,50,100,NULL,NULL,NULL,NULL,NULL,NULL,UNICODE,NULL,NULL,SQL_Latin1_General_CP1_CI_AS,NULL,NULL,NULL
+DataWarehouseAnalytics,gold,dim_customers,first_name,4,NULL,YES,nvarchar,50,100,NULL,NULL,NULL,NULL,NULL,NULL,UNICODE,NULL,NULL,SQL_Latin1_General_CP1_CI_AS,NULL,NULL,NULL
+DataWarehouseAnalytics,gold,dim_customers,last_name,5,NULL,YES,nvarchar,50,100,NULL,NULL,NULL,NULL,NULL,NULL,UNICODE,NULL,NULL,SQL_Latin1_General_CP1_CI_AS,NULL,NULL,NULL
+DataWarehouseAnalytics,gold,dim_customers,country,6,NULL,YES,nvarchar,50,100,NULL,NULL,NULL,NULL,NULL,NULL,UNICODE,NULL,NULL,SQL_Latin1_General_CP1_CI_AS,NULL,NULL,NULL
+DataWarehouseAnalytics,gold,dim_customers,marital_status,7,NULL,YES,nvarchar,50,100,NULL,NULL,NULL,NULL,NULL,NULL,UNICODE,NULL,NULL,SQL_Latin1_General_CP1_CI_AS,NULL,NULL,NULL
+DataWarehouseAnalytics,gold,dim_customers,gender,8,NULL,YES,nvarchar,50,100,NULL,NULL,NULL,NULL,NULL,NULL,UNICODE,NULL,NULL,SQL_Latin1_General_CP1_CI_AS,NULL,NULL,NULL
+DataWarehouseAnalytics,gold,dim_customers,birthdate,9,NULL,YES,date,NULL,NULL,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+DataWarehouseAnalytics,gold,dim_customers,create_date,10,NULL,YES,date,NULL,NULL,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
